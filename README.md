@@ -1,8 +1,6 @@
 # Breaking
 **Team members:** Richard Dong, Sarah Onderdonk, Grace Wan, Yabeke Zike
 
-**Link to repo:** https://github.com/cs0320-s2023/break
-
 **Time spent:** ~40 hours
 
 **Project structure:**
