@@ -27,6 +27,7 @@ public class Main {
         RandomGenerator generator = new RandomGenerator(parser.parseLines());
         for(int i = 0; i<10; i++){
             List<Move> res = generator.generate(8);
+            System.out.println(res);
         }
     }
 }
